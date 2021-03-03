@@ -1,0 +1,1 @@
+The project presents an analytical method that enhances the detection of brain tumor cells in its early stages and to analyse anatomical structures by training and classification of the samples in the neural network system and tumor cell segmentation of the sample using image processing.
